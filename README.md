@@ -1,6 +1,8 @@
 # She Can Foundation Website
 
-A modern and responsive NGO website created for the **She Can Foundation Frontend Development Internship Task**.
+A modern and responsive NGO website created for She Can Foundation.
+
+---
 
 ## 🌟 Features
 
@@ -16,6 +18,10 @@ A modern and responsive NGO website created for the **She Can Foundation Fronten
 - Hover Effects & Transitions
 - Scroll To Top Button
 - Mobile Friendly Layout
+- Premium Modern UI
+- Glassmorphism Cards
+- Reveal Animations
+- Animated Hero Section
 
 ---
 
@@ -27,35 +33,22 @@ A modern and responsive NGO website created for the **She Can Foundation Fronten
 
 ---
 
-## 📸 Project Preview
+## 📸 Project Sections
 
-This project includes:
 - Hero Section
 - About Section
 - Mission Section
 - Impact Section
-- Volunteer CTA
-- Testimonials
+- Volunteer Section
+- Testimonials Section
 - Footer
-
----
-
-## 🚀 Live Website
-
-Add your Netlify/Vercel deployed link here after deployment.
-
-Example:
-
-```bash
-https://your-project-name.netlify.app
-```
 
 ---
 
 ## 💻 GitHub Repository
 
 ```bash
-https://github.com/ArnaovGarg925/she-can-foundation-website
+https://github.com/ArnaovGarg925/she-can-foundation-website.git
 ```
 
 ---
@@ -73,32 +66,53 @@ she-can-foundation-website/
 
 ---
 
+## ▶️ How To Run The Project
+
+### Method 1 — Using VS Code Live Server
+
+1. Download or Clone Repository
+
+```bash
+git clone https://github.com/ArnaovGarg925/she-can-foundation-website.git
+```
+
+2. Open folder in VS Code
+
+3. Install:
+- Live Server Extension
+
+4. Right Click:
+- index.html
+
+5. Click:
+- Open With Live Server
+
+---
+
+### Method 2 — Open Directly
+
+Simply open:
+
+```bash
+index.html
+```
+
+inside any browser.
+
+---
+
 ## 📱 Responsive Design
 
-The website is fully responsive and works smoothly on:
+The website works smoothly on:
 - Desktop
 - Tablet
 - Mobile Devices
 
 ---
 
-## ✨ Internship Task Objective
-
-This project was created to showcase:
-- Frontend Development Skills
-- UI/UX Design
-- Responsive Layout Creation
-- Animation & Effects
-- Clean Web Design
-
----
-
 ## 👨‍💻 Made By
 
 ### Arnaov Garg
-
-Frontend Development Internship Submission  
-She Can Foundation
 
 ---
 
